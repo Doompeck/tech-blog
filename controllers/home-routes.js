@@ -13,3 +13,5 @@
 // Route "/dashboard/edit/:id"
 
 // Route "/post/:id"
+
+// look at pulling code from Activities 19 and 24.
